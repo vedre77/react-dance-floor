@@ -1,4 +1,4 @@
-A fun solo project with basic React procedures and some creative JS.
+A fun SIT academy solo project with basic React procedures and some creative JS.
 Objective was to create a dance floor where user clicks on the tile that will start dancing (randomly change colors) and then use the up/down/left/right keys to lead the dancing.
 
 ![empty](https://user-images.githubusercontent.com/98163212/205031791-15529876-1e16-4ff2-9689-a32cacc95d3d.jpg)
